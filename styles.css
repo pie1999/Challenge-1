@@ -1,0 +1,24 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+  font-size: 15px;
+}
+
+p {
+  display: inline-block;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+h2 {
+  color: white;
+}
+
+.card {
+  background-color: hsl(244, 38%, 16%);
+  height: 50%;
+  margin: 100px 120px 80px 70px;
+}
+
+.img1 {
+  float: right;
+  background-color: hsl(277, 64%, 61%);
+}
